@@ -1,8 +1,8 @@
 //感谢《数据结构（C++语言版）》提供的代码
 
 #include<iostream>
-#include"..\..\Vector\Vector\template-of-Vector\Vector.hpp"
-#include"..\..\Queue\Queue\template-of-Queue\Queue.hpp"
+#include"..\..\..\Vector\Vector\template-of-Vector\Vector.hpp"
+#include"..\..\..\Queue\Queue\template-of-Queue\Queue.hpp"
 using namespace std;
 
 typedef enum {UNDISCOVERED, DISCOVERED, VISITED} VStatus;
